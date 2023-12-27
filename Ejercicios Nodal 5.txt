@@ -5,7 +5,7 @@ un ángulo de 100o, aproximadamente. ¿A qué distancia se encuentran ambas casa
 Lobos y Santa Rosa, 495 km. Si se toma cada ciudad como el punto de un triángulo, ¿qué ángulo se
 forma en Lobos como vértice?
 
-3) Pedro vuela una cometa para lo cual emplea 40 m de cuerda. Si el ángulo de elevación es de , ¿cuál es la altura de la cometa respecto al piso?
+3) Pedro vuela una cometa para lo cual emplea 40 m de cuerda. Si el ángulo de elevación es de , ¿cuál es la altura de la cometa respecto al piso? CAMBIO RAMA NUEVA
 
 4) Calcula la altura de un árbol, sabiendo que desde un punto del terreno se observa su copa en un ángulo de 30° sobre el nivel de la tierra, y si nos acercamos  entonces la copa se observa en un ángulo de 60° sobre la tierra.
 
