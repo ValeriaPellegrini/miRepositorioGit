@@ -1,0 +1,14 @@
+1)Una persona ubicada en una plaza observa dos casas, una de ellas a 150 m y la otra 120 m, formando
+un ángulo de 100o, aproximadamente. ¿A qué distancia se encuentran ambas casas?
+
+2)La distancia entre Santa Rosa y Rosario es de 526 km; entre Rosario y Lobos, de 288 km y entre
+Lobos y Santa Rosa, 495 km. Si se toma cada ciudad como el punto de un triángulo, ¿qué ángulo se
+forma en Lobos como vértice?
+
+3) Pedro vuela una cometa para lo cual emplea 40 m de cuerda. Si el ángulo de elevación es de , ¿cuál es la altura de la cometa respecto al piso?
+
+4) Calcula la altura de un árbol, sabiendo que desde un punto del terreno se observa su copa en un ángulo de 30° sobre el nivel de la tierra, y si nos acercamos  entonces la copa se observa en un ángulo de 60° sobre la tierra.
+
+5) Un señor observa una torre desde una distancia desconocida y calcula el ángulo de observación en 30°. Luego se acerca cierta distancia y calcula un ángulo de 60°. Sabiendo que la altura de la torre es 87m, ¿Cuál era la distancia original del señor con la torre?¿cuánto se acercó para tomar la segunda medida?
+
+
